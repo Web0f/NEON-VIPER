@@ -1,4 +1,3 @@
-# NEON-VIPER
 
 # 🐍 NEON VIPER
 
